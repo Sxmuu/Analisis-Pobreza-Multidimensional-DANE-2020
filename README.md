@@ -28,7 +28,3 @@ Los datos provienen del proyecto "Medición de Pobreza Monetaria y Desigualdad 2
 2. Aproximadamente el 13% de la muestra pertenece a la población indigente, principalmente en zonas rurales y urbanas específicas.
 3. El trabajo infantil es más prevalente a partir del 5º grado escolar y en zonas rurales.
 4. La informalidad laboral es alta (cerca del 50%) y más común en estratos 1-3.
-
-## Agradecimientos
-- DANE por proporcionar los datos.
-- Ministerio de Trabajo de Colombia por establecer los objetivos estratégicos.
